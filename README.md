@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheMonke
 - 👀 I’m interested in Machine learning and Game Development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on I'm not sure yet
+- 💞️ I'm not sure if I should collaborate
 - 📫 How to reach me thisnoob567@gmail.com
 
 <!---
